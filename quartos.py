@@ -12,3 +12,6 @@ def ocupar_quarto(numero_quarto):
 def listar_quartos_disponiveis():
     """Mostra todos os quartos disponíveis"""
     print("Quartos disponíveis: 101, 102, 105")
+def libertar_quarto(numero_quarto):
+    """Liberta um quarto ocupado"""
+    print(f"Quarto {numero_quarto} libertado")

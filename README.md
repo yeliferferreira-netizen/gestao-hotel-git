@@ -1,6 +1,5 @@
-# gestao-hotel-git
-## Atualização 2
-Projeto desenvolvido com Git e GitHub.
-
+feature-conflito-1
 ## Atualização por Yelifer
-Funcionalidades implementadas
+Funcionalidades implementadas.
+## Conteúdo existente na main
+main

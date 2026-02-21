@@ -15,3 +15,6 @@ do projeto com Git e GitHub.
 
 ## Atualização 1
 Funcionalidades implementadas por Yelifer Ferreira.
+
+## Atualização 2
+Projeto desenvolvido com Git e GitHub.

@@ -7,3 +7,7 @@ def verificar_disponibilidade(numero_quarto):
 def ocupar_quarto(numero_quarto):
     """Marca um quarto como ocupado"""
     print(f"Quarto {numero_quarto} ocupado")
+# Nova funcionalidade
+def listar_quartos_disponiveis():
+    """Mostra todos os quartos disponíveis"""
+    print("Quartos disponíveis: 101, 102, 105")
